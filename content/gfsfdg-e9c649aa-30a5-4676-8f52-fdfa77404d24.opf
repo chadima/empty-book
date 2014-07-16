@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="uid">gfsfdg-580aceea-5525-4bbc-9374-9a5e5af71c81</dc:identifier>
+    <dc:title>gfsfdg</dc:title>
+      <date opf:event="publication" xmlns:opf="http://www.idpf.org/2007/opf">2014-7-16</date>
+    <dc:language xsi:type="dcterms:RFC4646" xmlns:xsi="http://www.idpf.org/2007/opf">en</dc:language>
+    <meta properties="dcterms:modified">2014-7-16</meta>
+</metadata>
+  <manifest><item href="gfsfdg-0598afd1-5a57-466d-8242-fd7772cd3cc8-nav.html" id="gfsfdg-0598afd1-5a57-466d-8242-fd7772cd3cc8-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-78e797b3-6857-455b-ba4d-7dd5fe0aef70.html" id="module1-78e797b3-6857-455b-ba4d-7dd5fe0aef70.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
+  <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1-78e797b3-6857-455b-ba4d-7dd5fe0aef70.html"></itemref></spine>
+</package>
